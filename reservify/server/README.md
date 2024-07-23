@@ -1,9 +1,9 @@
-<h1 align="center">Welcome to sports-booking-app 👋</h1>
+<h1 align="center">Welcome to venue-booking-app 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> App for booking court for sports. e.g. Tennis court
+> App for booking meeting halls e.g university staff meetings
 
 ## Install
 
@@ -19,10 +19,7 @@ npm run start
 
 ## Author
 
-👤 **Kn8**
-
-* Website: kn8dev.com
-* Github: [@kn8a](https://github.com/kn8a)
+👤 **Tawqeer**
 
 ## Show your support
 
